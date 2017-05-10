@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -77,102 +77,55 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x3036-800x1214.png",
-                "image": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x3036.png",
+                "thumb": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x3036-800x1214-800x1214.png",
+                "image": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x3036-800x1214.png",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2666-800x1066.png",
-                "image": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2666.png",
+                "thumb": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2666-800x1066-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2666-800x1066.png",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/car11-2000x1205-800x482.png",
-                "image": "@PROJECT_PATH@/assets/images/car11-2000x1205.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2656-2000x902-800x360.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2656-2000x902.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/typovernaculaire2-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/typovernaculaire2-2000x2000.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/circulation2-2000x3018-800x1207.png",
-                "image": "@PROJECT_PATH@/assets/images/circulation2-2000x3018.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/ps2-2000x2828-800x1131.png",
-                "image": "@PROJECT_PATH@/assets/images/ps2-2000x2828.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/dinard-2000x1409-800x563.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dinard-2000x1409.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/dp-cata-2000x1931-800x772.png",
-                "image": "@PROJECT_PATH@/assets/images/dp-cata-2000x1931.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/video4-2000x1399-800x559.jpg",
-                "image": "@PROJECT_PATH@/assets/images/video4-2000x1399.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/cran1-2000x1175-800x470.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cran1-2000x1175.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/8-2000x982-800x392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x982.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/kinect03-2000x1786-800x714.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kinect03-2000x1786.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/55d0aa35022295-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/55d0aa35022295-2000x1333.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/view3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/view3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/car11-2000x1205-800x482-800x482.png",
+                "image": "@PROJECT_PATH@/assets/images/car11-2000x1205-800x482.png",
                 "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
               }
             ],
             "showText": false,
             "bgColor": "#ffffff",
-            "fullWidth": true,
+            "fullWidth": false,
             "noGutter": true,
-            "showBullets": false
+            "showBullets": true
           },
-          "_anchor": "gallery1-5",
+          "_anchor": "gallery1-d",
           "articleLayout": false
         },
         {
