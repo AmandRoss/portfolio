@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -69,7 +69,7 @@
           },
           "title": "AMANDINE ROSSIGNOL",
           "text": "Graphiste - Directeur artistique junior / Marseille",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">A PROPOS</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#msg-box8-3\" data-toolbar=\"-mbrBtnMove\">A PROPOS</a>"
         },
         {
           "_inherit": "gallery1",
@@ -255,6 +255,41 @@
           "allItem": "All"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "AMANDINE",
+          "text": "<p>Actuellement étudiante en DSAA design graphique à Marseille, graphiste et directeur artistique junior. Je porte attention au domaine du design dans sa globalité, mais plus particulierement au multimédia, à l'innovation et aux nouvelles technologies. J'aime être au coeur de la nouveauté et du changement. Je réalise un mémoire et un macro projet sur le thème de l'immersion; pouvant être suivi ici :</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
@@ -270,46 +305,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#28324e"
-            },
-            ".lead P": {
-              "color": "#475577"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "AMANDINE",
-          "text": "<p>Actuellement étudiante en DSAA design graphique à Marseille, graphiste et directeur artistique junior. Je porte attention au domaine du design dans sa globalité, mais plus particulierement au multimédia, à l'innovation et aux nouvelles technologies.  J'aime être au coeur de la nouveauté et du changement.  Je réalise un mémoire et un macro projet sur le thème de l'immersion; pouvant être suivi ici :</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     }
