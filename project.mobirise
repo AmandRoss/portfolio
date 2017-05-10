@@ -189,6 +189,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/page-type27-2000x2070-800x828.jpg",
                 "image": "@PROJECT_PATH@/assets/images/page-type27-2000x2070.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lien-et-correspondance11111-2000x1930-800x772.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lien-et-correspondance11111-2000x1930.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
