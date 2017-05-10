@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -41,9 +41,9 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1",
+          "_anchor": "header1-2",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/hjk2-2000x1123.jpg",
@@ -53,27 +53,18 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#2969b0",
+            "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
           "title": "AMANDINE ROSSIGNOL",
-          "text": "Graphiste - Directeur artistique junior / Marseille<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">A PROPOS</a> ",
+          "text": "Graphiste - Directeur artistique junior / Marseille",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">A PROPOS</a>",
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "30px"
-            },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
@@ -91,12 +82,42 @@
             "paddingBottom": 0,
             "images": [
               {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2070-800x828.png",
+                "image": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2070.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ps2-2000x2070-800x828.png",
+                "image": "@PROJECT_PATH@/assets/images/ps2-2000x2070.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2331-800x932.jpg",
-                "image": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dp-cata-2000x1931-800x772.png",
+                "image": "@PROJECT_PATH@/assets/images/dp-cata-2000x1931.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2071-800x828.png",
+                "image": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2071.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -105,64 +126,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kinect03-2000x1786-800x714.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kinect03-2000x1786.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/typovernaculaire-2000x1937-800x774.png",
+                "image": "@PROJECT_PATH@/assets/images/typovernaculaire-2000x1937.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/circulation2-2000x2070-800x828.png",
+                "image": "@PROJECT_PATH@/assets/images/circulation2-2000x2070.png",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
               }
             ],
             "spacing": 1,
