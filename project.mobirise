@@ -327,7 +327,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/huih-2000x1123.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hjk2-2000x1123.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
