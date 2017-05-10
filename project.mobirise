@@ -259,6 +259,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".lead P": {
+              "color": "#475577"
             }
           },
           "_tags": [
@@ -272,7 +278,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -287,7 +293,7 @@
           },
           "title": "AMANDINE",
           "text": "<p>Actuellement étudiante en DSAA design graphique à Marseille, graphiste et directeur artistique junior. Je porte attention au domaine du design dans sa globalité, mais plus particulierement au multimédia, à l'innovation et aux nouvelles technologies. J'aime être au coeur de la nouveauté et du changement. Je réalise un mémoire et un macro projet sur le thème de l'immersion; pouvant être suivi ici :</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.tonerkebab.fr/wiki/doku.php/wiki:proto-memoires:amandine-rossignol:amandine-rossignol\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMMERSION</a> "
         },
         {
           "_name": "footer1",
