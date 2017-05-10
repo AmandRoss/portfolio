@@ -82,12 +82,12 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Creative",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2070-800x828.png",
-                "image": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2070.png",
+                "thumb": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2071-800x828.jpg",
+                "image": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2071.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -96,30 +96,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ps2-2000x2070-800x828.png",
-                "image": "@PROJECT_PATH@/assets/images/ps2-2000x2070.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2071-800x828.png",
-                "image": "@PROJECT_PATH@/assets/images/retouchefusion3-2000x2071.png",
+                "thumb": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2070-800x828.jpg",
+                "image": "@PROJECT_PATH@/assets/images/patrimoine4-2000x2070.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/circulation2-2000x2070-800x828.png",
-                "image": "@PROJECT_PATH@/assets/images/circulation2-2000x2070.png",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": 1,
