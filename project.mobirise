@@ -167,8 +167,8 @@
               }
             ],
             "showText": false,
-            "bgColor": "#28324e",
-            "fullWidth": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
             "noGutter": true,
             "showBullets": false
           },
@@ -180,14 +180,14 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#28324e"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -205,7 +205,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#28324e",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -220,7 +220,7 @@
           "title": "AMANDINE ROSSIGNOL",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Actuellement étudiante en DSAA design graphique à Marseille, graphiste et directeur artistique junior. Je porte attention au domaine du design dans sa globalité, mais plus particulierement au multimédia, à l'innovation et aux nouvelles technologies. &nbsp;J'aime être au coeur de la nouveauté et du changement. &nbsp;Je réalise un mémoire et un macro projet sur le thème de l'immersion; pouvant être suivi ici :&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
     }
