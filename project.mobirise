@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -69,7 +69,7 @@
           },
           "title": "AMANDINE ROSSIGNOL",
           "text": "Graphiste - Directeur artistique junior / Marseille",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#msg-box8-3\" data-toolbar=\"-mbrBtnMove\">A PROPOS</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#gallery4-0\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#msg-box3-4\" data-toolbar=\"-mbrBtnMove\">A PROPOS</a>"
         },
         {
           "_inherit": "gallery1",
@@ -274,7 +274,7 @@
           "_anchor": "msg-box3-4",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -294,6 +294,48 @@
           "title": "AMANDINE",
           "text": "<p>Actuellement étudiante en DSAA design graphique à Marseille, graphiste et directeur artistique junior. Je porte attention au domaine du design dans sa globalité, mais plus particulierement au multimédia, à l'innovation et aux nouvelles technologies. J'aime être au coeur de la nouveauté et du changement. Je réalise un mémoire et un macro projet sur le thème de l'immersion; pouvant être suivi ici :</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.tonerkebab.fr/wiki/doku.php/wiki:proto-memoires:amandine-rossignol:amandine-rossignol\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMMERSION</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-b",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.fichier-pdf.fr/2017/05/11/cv-ar/cv-ar.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CURRICULUM VITAE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/huih-2000x1123.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "IT'S ME",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/AmandRoss\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/amandine_ross/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://fr.pinterest.com/aeostig/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         },
         {
           "_name": "footer1",
