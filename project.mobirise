@@ -38,6 +38,22 @@
       "components": [
         {
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -59,7 +75,7 @@
             "showButtons": true
           },
           "title": "AMANDINE ROSSIGNOL",
-          "text": "Graphiste - Directeur artistique junior / Marseille<br>",
+          "text": "<span style=\"font-style: normal;\">Graphiste - Directeur artistique junior / Marseille</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">A PROPOS</a>"
         },
         {
