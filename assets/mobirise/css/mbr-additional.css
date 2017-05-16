@@ -436,7 +436,7 @@ h6,
   color: #232323;
 }
 #social-buttons2-c .mbr-section-title {
-  color: #28324e;
+  color: #ffffff;
 }
 
 
@@ -731,6 +731,13 @@ h6,
 }
 
 
+#header3-1w .mbr-section-title,
+#header3-1w .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box5-2h SPAN {
+  font-size: 36px;
+}
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -793,10 +800,6 @@ h6,
 #menu-14 .link[aria-expanded="true"],
 #menu-14 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
-}
-#header3-1w .mbr-section-title,
-#header3-1w .mbr-section-subtitle {
-  text-align: center;
 }
 
 
