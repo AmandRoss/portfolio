@@ -792,7 +792,7 @@ h6,
 }
 #menu-14 .link[aria-expanded="true"],
 #menu-14 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff !important;
+  color: #ffffff!important;
 }
 #header3-1w .mbr-section-title,
 #header3-1w .mbr-section-subtitle {
@@ -861,9 +861,12 @@ h6,
 }
 #menu-14 .link[aria-expanded="true"],
 #menu-14 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff !important;
+  color: #ffffff!important;
 }
 #header3-23 .mbr-section-title,
 #header3-23 .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box5-22 H3 {
+  font-size: 32px;
 }
