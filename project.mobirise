@@ -144,7 +144,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/typovernaculaire-2000x1937-800x774.jpg",
                 "image": "@PROJECT_PATH@/assets/images/typovernaculaire-2000x1937.jpg",
-                "caption": "<a href=\"vernaculaire.html\">FACTORY LETTER</a>",
+                "caption": "<a href=\"vernaculaire.html\" class=\"text-primary\">FACTORY LETTER</a>",
                 "active": false
               },
               {
@@ -154,7 +154,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cran1-2000x1931-800x772.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cran1-2000x1931.jpg",
-                "caption": "JEW",
+                "caption": "<a href=\"jew.html\" class=\"text-primary\">JEW</a>",
                 "active": false
               },
               {
