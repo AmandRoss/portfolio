@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Circulation.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -124,7 +124,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ps2-2000x2070-800x828.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ps2-2000x2070.jpg",
-                "caption": "<a href=\"cybathlon.html\">CYBATHLON</a>",
+                "caption": "<a href=\"cybathlon.html\" class=\"text-white\">CYBATHLON</a>",
                 "active": false
               },
               {
@@ -134,7 +134,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/circulation2-2000x2070-800x828.jpg",
                 "image": "@PROJECT_PATH@/assets/images/circulation2-2000x2070.jpg",
-                "caption": "CIRCULATION",
+                "caption": "<a href=\"Circulation.html\" class=\"text-primary\">CIRCULATION</a>",
                 "active": false
               },
               {
