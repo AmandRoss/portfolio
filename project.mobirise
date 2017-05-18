@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Circulation.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2960,6 +2960,26 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2p",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "CIRCULATION",
+          "meta": "exposition&nbsp;photographique &nbsp;au<br>Cent quatre à Paris<br>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3237,26 +3257,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANDINE ROSSIGNOL</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">A PROPOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2p",
-          "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "3",
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "CIRCULATION",
-          "meta": "exposition&nbsp;photographique &nbsp;au<br>Cent quatre à Paris<br>"
         }
       ]
     }
