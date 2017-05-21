@@ -2775,7 +2775,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ps2-600x848.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-1-600x847.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2807,7 +2807,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-1-600x847.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ps2-600x848.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2888,7 +2888,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banderole3-600x171.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banderole-600x171.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2920,7 +2920,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banderole-600x171.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banderole3-600x171.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
