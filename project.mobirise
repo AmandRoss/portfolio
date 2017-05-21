@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Macrotraffic.html",
+    "currentPage": "1DTouch.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -3521,9 +3521,9 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-2u",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "63",
             "paddingTop": "1",
-            "paddingBottom": 0,
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3539,7 +3539,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -3560,8 +3560,8 @@
             }
           },
           "title": "Seamus Farrell / <br>Spiral of Fez",
-          "text": " présentées dans le cadre de l'exposition Histoires Parallèles. Spiral of Fez est une oeuvre imposante tirant tout son intérêt dans l'interaction déambulatoire du spectateur. La médiation de cette oeuvre rend compte du flux des spectateurs, retranscrit à travers une projection murale et réalisé grâce à la kinect.<br><br><b>PROJET<br></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": " présentées dans le cadre de l'exposition Histoires Parallèles. Spiral of Fez est une oeuvre imposante tirant tout son intérêt dans l'interaction déambulatoire du spectateur. La médiation de cette oeuvre rend compte du flux des spectateurs, retranscrit à travers une projection murale et réalisé grâce à la kinect.<br><br><b><br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.tonerkebab.fr/wiki/doku.php/wiki:projets:open-frac-2:kinect\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROJET</a> ",
           "_styles": {
             "P": {
               "font-family": "'Raleway', sans-serif",
@@ -3571,6 +3571,10 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         }
@@ -3719,7 +3723,7 @@
             "inverse": false,
             "showTitle": false,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -3744,8 +3748,8 @@
             }
           },
           "title": "",
-          "text": "Développement d'une expérience narrative vidéo-ludique 3D à l'aide de Unity et Prototypage d'interfaces tangibles pour “jukebox”.<br>Trois mondes, trois univers communicant entre eux <br>et correspondant chacun à un style musical<br><br><i><a href=\"http://www.tonerkebab.fr/wiki/doku.php/wiki:projets:1dtouch:1dtouch\" target=\"_blank\" class=\"text-black\"><b>VIDÉO</b></a></i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIDEO</a>"
+          "text": "Développement d'une expérience narrative vidéo-ludique 3D à l'aide de Unity et Prototypage d'interfaces tangibles pour “jukebox”.<br>Trois mondes, trois univers communicant entre eux <br>et correspondant chacun à un style musical<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.tonerkebab.fr/wiki/doku.php/wiki:projets:1dtouch:1dtouch\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO</a>"
         },
         {
           "_tags": [
@@ -3768,12 +3772,12 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -3809,10 +3813,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nature-25-600x424.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Web Fonts",

@@ -1016,6 +1016,7 @@ h6,
 
 
 
+
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1089,6 +1090,9 @@ h6,
 #msg-box5-2u I {
   font-family: 'Oswald', sans-serif;
   text-align: center;
+}
+#msg-box5-2u .btn {
+  font-family: 'Oswald', sans-serif;
 }
 
 
