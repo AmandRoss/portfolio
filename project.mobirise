@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "patrimoine.html",
+    "currentPage": "Circulation.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -3111,9 +3111,9 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
             "inverse": true,
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -3306,13 +3306,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
