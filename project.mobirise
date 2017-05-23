@@ -195,7 +195,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lien-et-correspondance11111-2000x1930-800x772.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lien-et-correspondance11111-2000x1930.jpg",
                 "caption": "<a href=\"déclics.html\" class=\"text-primary\">DÉCLICS!</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -215,17 +215,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/170202-101109-2000x1929-800x771.jpg",
                 "image": "@PROJECT_PATH@/assets/images/170202-101109-2000x1929.jpg",
                 "caption": "<a href=\"Karma.html\" class=\"text-primary\">KARMA</a>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/170201-084746-2000x1933-800x773.jpg",
-                "image": "@PROJECT_PATH@/assets/images/170201-084746-2000x1933.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
