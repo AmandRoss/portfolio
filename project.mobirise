@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lecartomaton.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 123,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/vignettesitelogo-128x131.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
